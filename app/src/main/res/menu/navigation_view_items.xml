@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        android:id="@+id/gp1">
+        <item
+            android:id="@+id/navigation_item_1"
+            android:icon="@drawable/ic_watch_later_black_24dp"
+
+
+
+            android:title="@string/navigation_view_item_1" />
+
+    </group>
+
+<group
+    android:id="@+id/gp2"
+    >
+    <item
+        android:id="@+id/navigation_item_2"
+
+        android:title="@string/navigation_view_item_2" />
+</group>
+</menu>
